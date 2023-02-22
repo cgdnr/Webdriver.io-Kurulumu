@@ -1,2 +1,2 @@
 # Webdriver.io Kurulumu
- Kurulum Dosyasıı
+ Webdriver.io ve Allure raporlama aracının kurulumu anlatılmıştır.
